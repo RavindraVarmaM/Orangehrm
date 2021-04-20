@@ -33,21 +33,21 @@ formatter.match({
   "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
 });
 formatter.result({
-  "duration": 7131324300,
+  "duration": 8827488500,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.user_clicks_on_login()"
 });
 formatter.result({
-  "duration": 4409963700,
+  "duration": 5820761000,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.user_viewas_homepage()"
 });
 formatter.result({
-  "duration": 2675420800,
+  "duration": 2956084900,
   "status": "passed"
 });
 formatter.scenario({
@@ -77,21 +77,21 @@ formatter.match({
   "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
 });
 formatter.result({
-  "duration": 6022972400,
+  "duration": 6653894300,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.user_click_on_pim_module()"
 });
 formatter.result({
-  "duration": 11609134800,
+  "duration": 13323725700,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.user_view_report_option()"
 });
 formatter.result({
-  "duration": 4661002200,
+  "duration": 4619111800,
   "status": "passed"
 });
 formatter.scenario({
@@ -121,21 +121,21 @@ formatter.match({
   "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
 });
 formatter.result({
-  "duration": 6428226300,
+  "duration": 8773057800,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.user_opens_admin_option()"
 });
 formatter.result({
-  "duration": 6798039700,
+  "duration": 8750875900,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.user_able_to_use_userrole()"
 });
 formatter.result({
-  "duration": 565840600,
+  "duration": 534427200,
   "status": "passed"
 });
 formatter.scenario({
@@ -165,21 +165,21 @@ formatter.match({
   "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
 });
 formatter.result({
-  "duration": 6117352999,
+  "duration": 7552324800,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.ess_supervior_clicks_ess()"
 });
 formatter.result({
-  "duration": 7244899300,
+  "duration": 9169341300,
   "status": "passed"
 });
 formatter.match({
   "location": "OHstepdef.user_view_on_ESS_details()"
 });
 formatter.result({
-  "duration": 55543800,
+  "duration": 60190000,
   "status": "passed"
 });
 });

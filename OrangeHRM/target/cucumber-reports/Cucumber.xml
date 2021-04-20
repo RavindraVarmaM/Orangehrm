@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="63.719721">
-<testcase classname="Orange HRM" name="User successfully access" time="14.216709">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="77.041283">
+<testcase classname="Orange HRM" name="User successfully access" time="17.604334">
 <system-out><![CDATA[Given User is logins to OrangeHRM application...............................passed
 When User clicks on login...................................................passed
 Then User viewas homepage...................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Orange HRM" name="pim functionalities" time="22.293109">
+<testcase classname="Orange HRM" name="pim functionalities" time="24.596732">
 <system-out><![CDATA[Given User is logins to OrangeHRM application...............................passed
 When User click on pim module...............................................passed
 Then user view report option................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Orange HRM" name="User should able to operate admin module" time="13.792107">
+<testcase classname="Orange HRM" name="User should able to operate admin module" time="18.058361">
 <system-out><![CDATA[Given User is logins to OrangeHRM application...............................passed
 When user opens admin option................................................passed
 Then user able to use userrole..............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Orange HRM" name="ESS supervisor should able view his subordinates details" time="13.417796">
+<testcase classname="Orange HRM" name="ESS supervisor should able view his subordinates details" time="16.781856">
 <system-out><![CDATA[Given User is logins to OrangeHRM application...............................passed
 When ESS supervior clicks ess...............................................passed
 Then USer view on ESS details...............................................passed
