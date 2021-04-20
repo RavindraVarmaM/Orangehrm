@@ -1,0 +1,196 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "User successfully access",
+        "description": "",
+        "id": "orange-hrm;user-successfully-access",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7131324300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is logins to OrangeHRM application",
+            "match": {
+              "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4409963700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User clicks on login",
+            "match": {
+              "location": "OHstepdef.user_clicks_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2675420800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User viewas homepage",
+            "match": {
+              "location": "OHstepdef.user_viewas_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "pim functionalities",
+        "description": "",
+        "id": "orange-hrm;pim-functionalities",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6022972400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User is logins to OrangeHRM application",
+            "match": {
+              "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11609134800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User click on pim module",
+            "match": {
+              "location": "OHstepdef.user_click_on_pim_module()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4661002200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user view report option",
+            "match": {
+              "location": "OHstepdef.user_view_report_option()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "User should able to operate admin module",
+        "description": "",
+        "id": "orange-hrm;user-should-able-to-operate-admin-module",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6428226300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User is logins to OrangeHRM application",
+            "match": {
+              "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6798039700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user opens admin option",
+            "match": {
+              "location": "OHstepdef.user_opens_admin_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 565840600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user able to use userrole",
+            "match": {
+              "location": "OHstepdef.user_able_to_use_userrole()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "ESS supervisor should able view his subordinates details",
+        "description": "",
+        "id": "orange-hrm;ess-supervisor-should-able-view-his-subordinates-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6117352999,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User is logins to OrangeHRM application",
+            "match": {
+              "location": "OHstepdef.user_is_logins_to_OrangeHRM_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7244899300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "ESS supervior clicks ess",
+            "match": {
+              "location": "OHstepdef.ess_supervior_clicks_ess()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 55543800,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "USer view on ESS details",
+            "match": {
+              "location": "OHstepdef.user_view_on_ESS_details()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Orange HRM",
+    "description": "",
+    "id": "orange-hrm",
+    "keyword": "Feature",
+    "uri": "projct.feature"
+  }
+]
